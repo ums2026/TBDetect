@@ -1,2 +1,3 @@
 # TuberculosisDetectionApp
-Science Fair Project 2022-2023, a place to share code
+
+Uses ML Model trained on low-res and distorted sputum smear images to provide accurate TB diagnosis despite limited resources.
